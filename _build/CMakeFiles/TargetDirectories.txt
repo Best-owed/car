@@ -1,0 +1,3 @@
+/home/pi/car/_build/CMakeFiles/Car.dir
+/home/pi/car/_build/CMakeFiles/edit_cache.dir
+/home/pi/car/_build/CMakeFiles/rebuild_cache.dir

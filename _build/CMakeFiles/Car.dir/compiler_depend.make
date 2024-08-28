@@ -3,6 +3,7 @@
 
 CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
   /usr/include/stdc-predef.h \
+  /home/pi/car/srcs/carOpenApi.hpp \
   /usr/include/stdio.h \
   /usr/include/arm-linux-gnueabihf/bits/libc-header-start.h \
   /usr/include/features.h \
@@ -154,7 +155,7 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
   /usr/include/arm-linux-gnueabihf/bits/getopt_core.h \
   /usr/include/arm-linux-gnueabihf/bits/unistd_ext.h \
   /usr/include/linux/close_range.h \
-  /home/pi/car/srcs/carOpenApi.hpp
+  /home/pi/car/srcs/temperature.hpp
 
 
 /usr/include/arm-linux-gnueabihf/bits/unistd_ext.h:
@@ -194,6 +195,8 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
 /usr/include/c++/12/ext/string_conversions.h:
 
 /usr/include/c++/12/bits/string_view.tcc:
+
+/usr/include/c++/12/bits/hash_bytes.h:
 
 /usr/include/arm-linux-gnueabihf/bits/types/struct_timespec.h:
 
@@ -255,6 +258,12 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
 
 /usr/include/c++/12/stdlib.h:
 
+/usr/include/errno.h:
+
+/usr/include/arm-linux-gnueabihf/bits/waitflags.h:
+
+/usr/include/arm-linux-gnueabihf/bits/types/__mbstate_t.h:
+
 /usr/include/arm-linux-gnueabihf/c++/12/bits/os_defines.h:
 
 /usr/include/stdlib.h:
@@ -266,14 +275,6 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
 /usr/include/arm-linux-gnueabihf/bits/pthreadtypes-arch.h:
 
 /usr/include/c++/12/bits/functional_hash.h:
-
-/usr/include/features-time64.h:
-
-/usr/lib/gcc/arm-linux-gnueabihf/12/include/stddef.h:
-
-/usr/include/c++/12/bits/cxxabi_forced.h:
-
-/usr/include/arm-linux-gnueabihf/bits/timesize.h:
 
 /usr/include/arm-linux-gnueabihf/bits/wordsize.h:
 
@@ -297,15 +298,19 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
 
 /usr/include/arm-linux-gnueabihf/bits/long-double.h:
 
+/usr/include/alloca.h:
+
 /usr/include/arm-linux-gnueabihf/bits/byteswap.h:
 
 /usr/include/c++/12/bits/ostream_insert.h:
 
-/usr/include/errno.h:
+/usr/include/arm-linux-gnueabihf/bits/timesize.h:
 
-/usr/include/arm-linux-gnueabihf/bits/waitflags.h:
+/usr/include/features-time64.h:
 
-/usr/include/arm-linux-gnueabihf/bits/types/__mbstate_t.h:
+/usr/lib/gcc/arm-linux-gnueabihf/12/include/stddef.h:
+
+/usr/include/c++/12/bits/cxxabi_forced.h:
 
 /usr/include/c++/12/bits/localefwd.h:
 
@@ -347,13 +352,13 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
 
 /usr/include/arm-linux-gnueabihf/bits/struct_mutex.h:
 
+/home/pi/car/srcs/temperature.hpp:
+
 /usr/include/c++/12/bits/predefined_ops.h:
 
 /usr/include/wiringPi.h:
 
 /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h:
-
-/usr/include/alloca.h:
 
 /usr/include/arm-linux-gnueabihf/bits/stdlib-float.h:
 
@@ -462,5 +467,3 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
 /usr/include/c++/12/bits/basic_string.tcc:
 
 /usr/include/c++/12/string_view:
-
-/usr/include/c++/12/bits/hash_bytes.h:

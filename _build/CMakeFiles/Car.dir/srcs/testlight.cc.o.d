@@ -1,5 +1,6 @@
 CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
- /usr/include/stdc-predef.h /usr/include/stdio.h \
+ /usr/include/stdc-predef.h /home/pi/car/srcs/carOpenApi.hpp \
+ /usr/include/stdio.h \
  /usr/include/arm-linux-gnueabihf/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/arm-linux-gnueabihf/bits/wordsize.h \
@@ -127,4 +128,4 @@ CMakeFiles/Car.dir/srcs/testlight.cc.o: /home/pi/car/srcs/testlight.cc \
  /usr/include/arm-linux-gnueabihf/bits/getopt_posix.h \
  /usr/include/arm-linux-gnueabihf/bits/getopt_core.h \
  /usr/include/arm-linux-gnueabihf/bits/unistd_ext.h \
- /usr/include/linux/close_range.h /home/pi/car/srcs/carOpenApi.hpp
+ /usr/include/linux/close_range.h /home/pi/car/srcs/temperature.hpp

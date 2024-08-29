@@ -4,7 +4,7 @@
 #include <string>
 #include <time.h>
 #include <unistd.h>
-#define LED_R 23 //LED灯
+#define LED_R 20 //LED灯
 #define BEEP 17  //蜂鸣器
 #define CLK 22   //数码管
 #define DIO 27   
